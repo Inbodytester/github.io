@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Communication artifact placeholder</title>
+  <desc id="desc">Generic visual of written communication, presentation notes, and audience feedback.</desc>
+  <rect width="1000" height="700" fill="#f8f1df"/>
+  <circle cx="820" cy="120" r="190" fill="#0f766e" opacity="0.14"/>
+  <circle cx="155" cy="575" r="170" fill="#d6a23a" opacity="0.19"/>
+  <rect x="130" y="125" width="455" height="455" rx="34" fill="#083c35"/>
+  <rect x="180" y="185" width="230" height="24" rx="12" fill="#f4c86a"/>
+  <rect x="180" y="255" width="330" height="18" rx="9" fill="#ffffff" opacity="0.78"/>
+  <rect x="180" y="300" width="290" height="18" rx="9" fill="#ffffff" opacity="0.58"/>
+  <rect x="180" y="345" width="335" height="18" rx="9" fill="#ffffff" opacity="0.43"/>
+  <path d="M655 228 h142 a52 52 0 0 1 52 52 v62 a52 52 0 0 1-52 52 h-44 l-62 58 v-58 h-36 a52 52 0 0 1-52-52 v-62 a52 52 0 0 1 52-52Z" fill="#0f766e"/>
+  <path d="M692 291 h118 M692 335 h82" stroke="#f8f1df" stroke-width="18" stroke-linecap="round"/>
+  <text x="130" y="650" fill="#082f2a" font-family="Arial, sans-serif" font-size="34" font-weight="700">Communication Artifact</text>
+</svg>

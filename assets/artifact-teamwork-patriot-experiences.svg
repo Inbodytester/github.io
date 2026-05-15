@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Teamwork artifact placeholder for Patriot Experiences</title>
+  <desc id="desc">Generic visual of a team collaborating around an immersive training prototype.</desc>
+  <rect width="1000" height="700" fill="#071f1d"/>
+  <circle cx="515" cy="292" r="210" fill="#0f766e" opacity="0.3"/>
+  <circle cx="515" cy="292" r="122" fill="#d6a23a" opacity="0.2"/>
+  <g fill="#f8f1df">
+    <circle cx="320" cy="270" r="54"/>
+    <circle cx="515" cy="175" r="54"/>
+    <circle cx="710" cy="270" r="54"/>
+    <path d="M230 480 c22-92 158-92 180 0Z"/>
+    <path d="M425 385 c22-92 158-92 180 0Z"/>
+    <path d="M620 480 c22-92 158-92 180 0Z"/>
+  </g>
+  <path d="M363 277 C420 235 462 208 515 205 C573 208 620 238 668 277" stroke="#f4c86a" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <rect x="342" y="505" width="345" height="58" rx="29" fill="#f4c86a"/>
+  <text x="110" y="650" fill="#f8f1df" font-family="Arial, sans-serif" font-size="34" font-weight="700">Teamwork Artifact</text>
+</svg>

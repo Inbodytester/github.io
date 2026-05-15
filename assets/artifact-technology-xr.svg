@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Technology artifact placeholder for immersive prototype</title>
+  <desc id="desc">Generic visual of an extended reality interface and secure technology workflow.</desc>
+  <rect width="1000" height="700" fill="#071f1d"/>
+  <circle cx="775" cy="180" r="170" fill="#d6a23a" opacity="0.18"/>
+  <circle cx="225" cy="520" r="210" fill="#0f766e" opacity="0.22"/>
+  <path d="M232 315 C260 240 356 202 500 218 C645 234 742 289 768 365 C794 443 724 513 586 523 C426 535 272 491 234 400 C222 370 221 341 232 315Z" fill="#f8f1df"/>
+  <path d="M303 334 C337 289 413 270 505 280 C610 291 692 332 705 383 C718 434 653 472 555 476 C443 482 334 453 307 397 C298 376 296 353 303 334Z" fill="#0b3d35"/>
+  <path d="M355 377 C430 342 558 348 650 395" stroke="#f4c86a" stroke-width="16" stroke-linecap="round" opacity="0.86"/>
+  <rect x="148" y="132" width="190" height="94" rx="22" fill="#0f766e"/>
+  <rect x="662" y="505" width="190" height="94" rx="22" fill="#0f766e"/>
+  <path d="M338 180 C435 132 560 135 662 552" stroke="#f8f1df" stroke-width="7" stroke-dasharray="18 18" opacity="0.55" fill="none"/>
+  <text x="112" y="650" fill="#f8f1df" font-family="Arial, sans-serif" font-size="34" font-weight="700">Technology Artifact</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Leadership artifact placeholder</title>
+  <desc id="desc">Generic visual of a mission plan, milestone markers, and leadership decision points.</desc>
+  <rect width="1000" height="700" fill="#f7f0df"/>
+  <rect x="120" y="130" width="760" height="430" rx="36" fill="#092f2a"/>
+  <path d="M225 456 C305 280 445 420 520 285 S685 175 782 245" stroke="#f4c86a" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <g fill="#ffffff">
+    <circle cx="225" cy="456" r="34"/>
+    <circle cx="520" cy="285" r="34"/>
+    <circle cx="782" cy="245" r="34"/>
+  </g>
+  <g fill="#f4c86a">
+    <path d="M203 456 l16 16 32-40" stroke="#092f2a" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M498 285 l16 16 32-40" stroke="#092f2a" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M760 245 l16 16 32-40" stroke="#092f2a" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="205" y="190" width="185" height="20" rx="10" fill="#f8f1df" opacity="0.82"/>
+  <rect x="205" y="235" width="130" height="20" rx="10" fill="#f8f1df" opacity="0.42"/>
+  <text x="120" y="650" fill="#082f2a" font-family="Arial, sans-serif" font-size="34" font-weight="700">Leadership Artifact</text>
+</svg>
